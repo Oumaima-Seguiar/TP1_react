@@ -1,0 +1,64 @@
+/*Oumaima seguiar*/
+  div{
+  
+ padding-top: 10px;
+    width:300px;
+    margin: 0 auto;
+    text-align: center;
+    background: black;
+    height: 315px;
+    box-shadow: 15px 20px #888888;
+
+  }
+
+  input {
+    width: 20%;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding: 5px;
+
+    
+  }
+  .text{
+    width: 60%;
+    height:42px ;
+    background-color: rgba(212, 206, 206, 0.797);
+  }
+
+  .text:hover{
+    background-color: #f0f0f0;
+  }
+
+
+  #sm{
+    background-color: rgb(117, 115, 115);
+}
+
+  #cc{
+    background: rgba(255, 102, 0, 0.993);
+    
+    
+}
+  
+  .button {
+    font-size: 20px;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: rgba(49, 48, 48, 0.816);
+    color: rgba(255, 255, 255, 0.871);
+
+  }
+  
+  .button:hover {
+    background-color: #ccc;
+  }
+  #sm:hover{
+    background-color: #ccc;
+  }
+  #cc:hover{
+    background-color: #be9668;
+  }
