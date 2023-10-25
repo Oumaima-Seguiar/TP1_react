@@ -1,6 +1,6 @@
 {
-  "homepage": "git@github.com:Oumaima-Seguiar/TP1-REACT.git",
-  "name": "calcul",
+  "homepage": "git@github.com:Oumaima-Seguiar/app_react.git",
+  "name": "app_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
