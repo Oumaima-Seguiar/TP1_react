@@ -1,8 +1,8 @@
 //Oumaima seguiar
 import React, { useState } from 'react'
-import './st.css'
+import './tp1_style.css'
 
-export default function Calc() {
+export default function Tp1_Calc() {
 
 const [exp,setExp]=useState('');
 
