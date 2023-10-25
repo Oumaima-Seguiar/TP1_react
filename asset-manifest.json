@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/css/main.cd360ded.css",
-    "main.js": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/js/main.9958e72f.js",
-    "static/js/787.4eab6a7f.chunk.js": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/js/787.4eab6a7f.chunk.js",
-    "static/media/logo.svg": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/index.html",
-    "main.cd360ded.css.map": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/css/main.cd360ded.css.map",
-    "main.9958e72f.js.map": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/js/main.9958e72f.js.map",
-    "787.4eab6a7f.chunk.js.map": "/git@github.com:Oumaima-Seguiar/TP1-REACT.git/static/js/787.4eab6a7f.chunk.js.map"
+    "main.css": "/Oumaima-Seguiar/app_react.git/static/css/main.cd360ded.css",
+    "main.js": "/Oumaima-Seguiar/app_react.git/static/js/main.d1a5b769.js",
+    "static/js/787.4eab6a7f.chunk.js": "/Oumaima-Seguiar/app_react.git/static/js/787.4eab6a7f.chunk.js",
+    "static/media/logo.svg": "/Oumaima-Seguiar/app_react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Oumaima-Seguiar/app_react.git/index.html",
+    "main.cd360ded.css.map": "/Oumaima-Seguiar/app_react.git/static/css/main.cd360ded.css.map",
+    "main.d1a5b769.js.map": "/Oumaima-Seguiar/app_react.git/static/js/main.d1a5b769.js.map",
+    "787.4eab6a7f.chunk.js.map": "/Oumaima-Seguiar/app_react.git/static/js/787.4eab6a7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd360ded.css",
-    "static/js/main.9958e72f.js"
+    "static/js/main.d1a5b769.js"
   ]
 }
