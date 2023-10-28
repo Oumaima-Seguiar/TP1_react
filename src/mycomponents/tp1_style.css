@@ -5,9 +5,11 @@
     width:300px;
     margin: 0 auto;
     text-align: center;
-    background: black;
+    background: #aaa0b6;
     height: 315px;
-    box-shadow: 15px 20px #888888;
+    border-radius: 10px;
+    box-shadow: 15px 20px #899288;
+    text-align: center;
 
   }
 
@@ -16,7 +18,7 @@
     font-size: 20px;
     margin-bottom: 5px;
     margin-right: 5px;
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 5px;
 
     
@@ -24,7 +26,10 @@
   .text{
     width: 60%;
     height:42px ;
-    background-color: rgba(212, 206, 206, 0.797);
+    background-color:#978699;
+    color: white;
+    border-color: rgba(255, 255, 255, 0.527);
+    
   }
 
   .text:hover{
@@ -33,11 +38,11 @@
 
 
   #sm{
-    background-color: rgb(117, 115, 115);
+    background-color: #978699;
 }
 
   #cc{
-    background: rgba(255, 102, 0, 0.993);
+    background: #899288;
     
     
 }
@@ -48,7 +53,7 @@
     background-color: #f0f0f0;
     border: 1px solid #ccc;
     cursor: pointer;
-    background-color: rgba(49, 48, 48, 0.816);
+    background-color: #B39EB5;
     color: rgba(255, 255, 255, 0.871);
 
   }
@@ -60,5 +65,5 @@
     background-color: #ccc;
   }
   #cc:hover{
-    background-color: #be9668;
+    background-color:#B39EB5 ;
   }
